@@ -4,5 +4,5 @@ void main(List<String> args) {
   lesson = "String Data Type";
   courseName = 'Dart\'s Lessons';
   print(courseName + lesson);
-  print("$courseName $lesson")
+  print("$courseName $lesson");
 }
